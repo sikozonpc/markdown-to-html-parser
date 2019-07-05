@@ -1,0 +1,8 @@
+{
+  "name": "md-html-parser",
+  "version": "1.0.0",
+  "description": "Markdown parser to html",
+  "main": "index.js",
+  "author": "Tiago Taquelim",
+  "license": "NO LICENSE"
+}
